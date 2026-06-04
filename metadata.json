@@ -1,0 +1,6 @@
+{
+  "name": "Level Up Wyandanch",
+  "description": "Professional, reliable local services in Wyandanch, New York. Level Up Your Success with Long Island's trusted business partner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
